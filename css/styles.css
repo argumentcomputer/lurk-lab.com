@@ -1,0 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css?family=SpaceMono');
+
+body {
+  font-family: 'SpaceMono', monospace;
+  font-size: 30px;
+}
+
+a {
+  color: #000000 !important;
+  text-decoration: none;
+}
